@@ -136,6 +136,9 @@
 .sellMenu .right {
   fill: #3a77ff;
 }
+.logOut{
+  cursor: pointer;
+}
 .sellMenu .sellMenuContent {
   display: flex;
   position: absolute;
